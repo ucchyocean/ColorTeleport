@@ -1,0 +1,15 @@
+name: ColorTeleport
+version: 1.0
+main: com.vivio1204.hooks.colorteam.ColorTeleport
+description: "Debug Plugin"
+author: Vivio1204
+commands:
+   colorteleport:
+      description: sets config
+      usage: /<command>
+      permission: colorteleport.usecommand
+      permission-message: You don't have <permission>
+permissions:
+    colorteleport.usecommand
+      description: Allows you to use commands that are provided by plugin
+      usage: op
