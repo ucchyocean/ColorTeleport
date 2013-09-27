@@ -13,4 +13,4 @@ commands:
 permissions:
    colorteleport.usecommand:
       description: Allows you to use commands that are provided by plugin
-      usage: op
+      default: op
